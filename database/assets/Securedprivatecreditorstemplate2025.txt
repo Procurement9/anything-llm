@@ -1,0 +1,98 @@
+SPC Trust Instruction Manual
+
+This manual guides you through preparing, executing, and finalizing your SPC Trust documents under Georgia law. The SPC Trust is a private common-law trust organized for your personal benefit. It is governed by Georgia trust statutes (O.C.G.A. Title 53) while operating as a private contract.  The trust must be properly executed to be enforceable: use clear, formal language; follow legal requirements; and comply with Georgia’s Revised Trust Code. Ensure each section below is completed accurately and all parties sign where indicated.
+
+1. Prepare Documents
+	•	Gather all trust forms and attachments. This typically includes the Trust Agreement, Trust Certificates, Deeds of Transfer, Bank Resolutions, and any required financial instruments. Use the latest templates and fill in your specific information (names, dates, trust name, etc.).
+	•	Identify parties and roles. Clearly list the Trustee/Creator (settlor), any Co-Trustees, the Exchanger (the person transferring assets into the trust), and all beneficiaries. Include contact details and addresses as needed.
+	•	Set trust characteristics. Specify whether the trust is irrevocable (cannot be changed after creation) or revocable. In Georgia, irrevocable trusts require notice to beneficiaries (see below). Note the trust’s execution date and, if known, obtain an Employer Identification Number (EIN) from the IRS for tax purposes.
+	•	Print on quality paper. Print two identical copies of each document. Use plain white paper for most pages. Print official forms (like Trust Certificates or financial instruments) on high-quality bond paper or equivalent to ensure durability. (Originals should be signed in ink; copies are for record-keeping.)
+
+2. Color-Coded Signing Roles
+
+To ensure clarity in signing and filing, use the following color-coded scheme for all signature lines. Mark each role with the matching color label or ink (for example, write the role in colored ink or highlight the title line):
+	•	🔵 Trustee/Creator: The person who establishes the trust. This party signs as the trust “settlor” or creator and may also act as initial Trustee.
+	•	🟢 Secondary Trustee (if any): An additional co-trustee who shares fiduciary duties. If applicable, co-signs where indicated.
+	•	🟠 Exchanger: The individual or entity transferring assets into the trust (sometimes called the grantor or transferor for specific assets). Signs any transfer or assignment documents.
+	•	🟣 Witness(es): Independent witnesses (at least one, preferably two) who observe the signing of the trust and related documents. They attest that signatures are genuine.
+	•	🔴 Notary Public: The commissioned notary who notarizes the document after all signers have signed. The notary will complete the acknowledgment section and affix a seal.
+	•	⚫ Administrator (Internal Use Only): Not an external signer. Used internally (by you or your agent) for tracking or instructions. Mark this role in black; the Administrator does not sign with the others.
+
+3. Printing and Document Handling
+	•	Print two sets: One original and one copy for your records. Verify that all pages are legible and in order.
+	•	No extra markings: Do not modify the text of the legal forms except to fill in blanks. Remove any instructional text after filling in the blanks.
+	•	Avoid obsolete methods: Do not use fax machines for signing or filing. Instead, use printers, digital copies, email, or mail. Ensure you have a digital backup of the completed documents (scan signed documents to PDF).
+	•	Mailing instructions: If any document must be sent to a government office or third party, use traceable mail (e.g. certified or registered mail). Retain tracking numbers and copies of what you send.
+
+4. Execution (Signing) Procedure
+	1.	Trust Agreement Signing:
+	•	The Trustee/Creator (🔵) must sign the Trust Agreement (the main trust document) on the designated signature line. Use blue ink if possible or mark the signature line with 🔵.
+	•	If there is a Secondary Trustee (🟢), they sign immediately next to or below the Trustee/Creator, in green ink or marked 🟢.
+	•	Record the signing date next to each signature.
+	2.	Exchanger Documents:
+	•	If assets (cash, property, etc.) are being transferred into the trust, the Exchanger (🟠) signs the Deed of Transfer or other transfer form. Use orange ink or mark with 🟠. Include the transfer date.
+	•	In that document, the Exchanger typically appoints the Board of Trustees to issue new ownership under the trust (as in a Deed of Transfer clause). Ensure this section is dated and signed.
+	3.	Witnesses:
+	•	Have at least one impartial Witness (🟣) present during each principal signing. The witness should watch the Trustee/Creator (and any Co-Trustee) sign the Trust Agreement, then sign the witness line in purple ink or mark with 🟣.
+	•	Similarly, a witness should observe the Exchanger sign the transfer deed and then sign the witness line. A second witness is strongly recommended for added validity.
+	•	Witnesses must be adults, not parties to the transaction, and must include their printed name, signature, and date.
+	4.	Notarization:
+	•	After all signatures by the Trustee/Creator, Secondary Trustee, and Exchanger (and the witnesses) are in place, present each document to a Notary Public (🔴). The Notary must verify identities (check IDs), confirm willingness to sign, and then complete the acknowledgment.
+	•	The Notary will sign, date, and affix an official seal (usually red or black) on each document requiring notarization (Trust Agreement, transfer deeds, certificates, etc.).
+	5.	Administrator Actions:
+	•	The Administrator (⚫) should check all forms for completion but does not sign on behalf of others. Mark any internal notes or forms in black. After execution, the Administrator may prepare copies or summary notes for record-keeping.
+
+5. Notarization and Witness Details
+	•	Georgia law requires notarization of trust documents that will be recorded (especially those dealing with real property). Notarization provides the sworn confirmation needed by counties and banks.
+	•	Witness vs. Notary: In Georgia, if a document is notarized, additional witness signatures generally are not legally required. However, for extra precaution, we still use separate witnesses (🟣).
+	•	Notary Information: The notary’s signature must match the name on their commission exactly. The acknowledgment section must state that the signers are who they claim to be and signed voluntarily.
+	•	Multiple Notaries: You may use one notary for multiple documents at the same signing session. Each notarized document must have its own notarial section completed and sealed.
+
+6. Georgia Law Compliance
+	•	Trust Certification: Georgia allows a Certification of Trust (O.C.G.A. §53-12-280) instead of the full trust instrument when dealing with third parties ￼. You may prepare a certification (listing trust name, date, trustees, powers, etc.) for banks or record offices. This certificate must be signed by each trustee and state that the trust has not been amended inconsistently ￼.
+	•	Recording Real Property: If the trust holds real estate, execute and record a Certificate of Trust (or a deed of trust) in the county clerk’s office where the property is located ￼. The certificate must include a legal description of the property, the trust name, and be acknowledged by all trustees ￼. Once recorded, the trust’s ownership is on public record.
+	•	No State Filing Required: Georgia does not require filing the Trust Agreement itself with the Secretary of State or any state agency. Keep the original Trust Agreement in a safe place. Only record what is legally required (e.g. property records).
+	•	Fiduciary Duties: The Trustee(s) will owe legal duties to the beneficiaries. By Georgia law, a trustee must act with the care, skill, and prudence of a reasonably careful person managing trust affairs ￼, and must avoid conflicts (duty of loyalty). Trustees should always act in the beneficiaries’ best interests.
+	•	Beneficiary Notice: For an irrevocable trust, the trustee must inform all “qualified beneficiaries” of the trust’s existence and trustee’s address within 60 days after execution ￼. (This requirement can be waived if the trust document says otherwise.) If your trust is irrevocable, make sure beneficiaries receive this notice promptly ￼.
+	•	Tax Filings: Obtain an EIN for the trust and consult a tax advisor. Generally, an irrevocable trust is a separate taxpayer (use Form 1041). Even if Georgia law doesn’t mandate it, filing state and federal returns on time is crucial.
+
+7. Finalizing and Filing
+	•	Review all pages: Confirm every blank is filled and the dates match. Check that each page is signed/notarized where required. Shred or destroy any extraneous blank pages (e.g. extra certificate forms with no beneficiary).
+	•	Make copies: After notarization, scan or copy each document. Keep one full set of originals (signed & notarized) and one full set of copies. Store originals securely (e.g. safe deposit box) and provide copies to your attorney or advisor.
+	•	Record as needed: If recording is required (see above), mail or deliver the notarized Certificate of Trust/deed to the County Recorder or Clerk of Superior Court. Include payment for recording fees. Use certified mail with return receipt, if desired.
+	•	Banking: When opening accounts, present the bank with the trust documents. You may supply the trust’s Certification of Trust (which Georgia law accepts in lieu of the full agreement ￼). The Trustee should also show personal ID.
+
+8. Signature Blocks
+
+After all preparations, use the following signature fields. Each party signs next to the appropriate color-coded title:
+
+Name: ___________________________    Date: ___________
+Title: 🔵 Trustee/Creator
+
+Name: ___________________________    Date: ___________
+Title: 🟢 Secondary Trustee
+
+Name: ___________________________    Date: ___________
+Title: 🟠 Exchanger
+
+Name: ___________________________    Date: ___________
+Title: 🟣 Witness
+
+Name: ___________________________    Date: ___________
+Title: 🔴 Notary Public (with seal)
+
+Name: ___________________________    Date: ___________
+Title: ⚫ Administrator (Internal Use Only)
+
+Each signer should print their name above the line and sign on the line. The Notary Public will complete the notarial block on the printed form (no signature line needed above, but include the notary seal as required by law).
+
+9. Summary of Key Georgia Requirements
+	•	Use a written trust instrument (the Trust Agreement) to create the trust (compliant with Ga. Code Ann. Title 53).
+	•	Obtain an EIN for the trust if it will conduct financial or property transactions.
+	•	Notarize all necessary signature pages. Ensure notarization meets Georgia format.
+	•	For real property, record a Certificate of Trust with property details ￼.
+	•	Provide a Certification of Trust (per O.C.G.A. §53-12-280) when opening bank accounts or dealing with third parties ￼.
+	•	Trustees must act as fiduciaries: prudently and loyally (Ga. Code §53-12-241 ￼) and follow trust terms.
+	•	In an irrevocable trust, notify beneficiaries of the trust’s existence and trustee contact ￼.
+
+By following these steps and Georgia’s trust laws, your SPC Trust will be properly formed and enforceable. Always keep the documents organized and seek legal advice if in doubt about any requirement.
