@@ -1,0 +1,11 @@
+Estate Planning Pro - Windows Application
+Version: 1.0.0
+Build Date: August 1, 2026
+Platform: Windows 10+
+
+To complete the Windows build:
+1. Install Node.js on Windows
+2. Run: npm install -g electron-builder
+3. Run: npm run electron-build-win
+
+The executable will be created in the dist-electron directory.
