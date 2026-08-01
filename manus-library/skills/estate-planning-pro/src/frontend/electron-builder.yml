@@ -1,0 +1,21 @@
+appId: com.estateplanning.app
+productName: Estate Planning Pro
+directories:
+  buildResources: public
+  output: dist-electron
+files:
+  - from: dist
+    to: .
+  - from: public/electron.js
+    to: .
+win:
+  target:
+    - nsis
+    - portable
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+portable:
+  artifactName: EstatePlanning-${version}.exe
